@@ -44,7 +44,7 @@ Python 3.x pip virtualenv
 
     Clone the project repository to your local machine using the following command:
 
-    git clone https://github.com/brook1167/Kara-Solutions-DWH
+    git clone (https://github.com/Yoftahe2/Kara_solutions)
 
 2. Install dependencies
 
